@@ -42,7 +42,7 @@
 
 ---
 ### :zap: Github Stats
-[![Lites' github stats](https://github-readme-stats.silencerlites.vercel.app/api?username=silencerlites&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Lites' github stats](https://github-readme-stats.vercel.app/api?username=silencerlites&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
