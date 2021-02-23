@@ -50,6 +50,7 @@
 
 <!-- Social Media Platforms-->
 [github]: http://github.com/silencerlites
-[linkedin]: www.linkedin.com/in/cedric-liera
+[linkedin]: https://linkedin.com/in/cedric-liera
+
 
 
