@@ -1,4 +1,4 @@
-# Hey there, I'm Cedric Liera ([Lites])[github] 👋
+# Hey there, I'm Cedric Liera - [Lites][github] 👋
 
 <br />
 
