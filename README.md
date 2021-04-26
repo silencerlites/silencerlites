@@ -3,10 +3,10 @@
 <br />
 
 
-## I'm a Student, Developer, Artist, and Gamer!!
+## I'm a Developer, Artist, and Indie Game Developer!!
 - 🧑‍🎓 I am a [Information Technology Major in Digital Arts](https://www.workforce.com/news/what-exactly-is-information-technology-it) [@STI College Muñoz-EDSA](https://www.facebook.com/munoz.sti.edu)
 - 🖥️ Skilled at Frontend and Backend Programming 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning to pursue my passion
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 <br />
