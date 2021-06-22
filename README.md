@@ -8,7 +8,6 @@
 - 🖥️ Skilled at Frontend and Backend Programming 
 - 🌱 I’m currently learning to pursue my passion
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
 <br />
 
 
@@ -47,6 +46,7 @@ https://lieralites.web.app/
 
 ---
 ### :zap: Github Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariel041596&theme=tokyonight) 
 [![Lites' github stats](https://github-readme-stats.vercel.app/api?username=silencerlites&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
