@@ -47,7 +47,7 @@ https://lieralites.web.app/
 ---
 ### :zap: Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silencerlites&theme=tokyonight) 
-[![Lites' github stats](https://github-readme-stats.vercel.app/api?username=silencerlites&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Lites' github stats](https://github-readme-stats.vercel.app/api?username=silencerlites&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
