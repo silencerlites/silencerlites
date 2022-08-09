@@ -1,4 +1,4 @@
-# Hey there,[Lites][github] 👋
+# Hey there, [Lites][github] 👋
 
 <br />
 
