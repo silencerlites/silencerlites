@@ -2,8 +2,8 @@
 
 <br />
 - 🖥️ Skilled at Frontend and Backend Programming 
-- 🌱 I’m currently learning to pursue my passion
-- 👯 I’m looking to collaborate with other developers
+- 🌱 I’m currently learning to pursue my passion <br />
+- 👯 I’m looking to collaborate with other developers <br />
 <br />
 
 
