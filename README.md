@@ -1,9 +1,6 @@
 # Hey there, [Lites][github] 👋
 
 <br />
-
-
-## I'm a Developer, Artist, and Indie Game Developer!!
 - 🖥️ Skilled at Frontend and Backend Programming 
 - 🌱 I’m currently learning to pursue my passion
 - 👯 I’m looking to collaborate with other developers
