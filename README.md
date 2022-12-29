@@ -1,7 +1,7 @@
 # Hey there, [Lites][github] 👋
 
 <br />
-- 🖥️ Skilled at Frontend and Backend Programming 
+- 🖥️ Skilled at Frontend and Backend Programming <br />
 - 🌱 I’m currently learning to pursue my passion <br />
 - 👯 I’m looking to collaborate with other developers <br />
 <br />
