@@ -1,4 +1,4 @@
-# Hey there, [Lites][github] 👋
+# Hey there, Cedric Liera[github] 👋
 
 <br />
 - 🖥️ Skilled at Frontend and Backend Programming <br />
